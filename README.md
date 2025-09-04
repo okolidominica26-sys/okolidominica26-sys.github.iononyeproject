@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=okolidominica26-sys.iononye" alt="GitHub Streak"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=okolidominica26-sys" alt="GitHub Streak"/>
 </p>
 
 ---
