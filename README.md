@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/okolidominica26-sys.iononyeproject?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/okolidominica26-sys.iononyeproject?style=flat&label=Followers"></a>
-  <a href="https://github.com/okolidominica26-sys.iononyeproject"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=okolidominica26-sys.iononyeproject&style=flat"></a>
+  <a href="https://github.com/okolidominica26-sys.io?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/okolidominica26-sys.io?style=flat&label=Followers"></a>
+  <a href="https://github.com/okolidominica26-sys.io"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=okolidominica26-sys.io&style=flat"></a>
 </p>
 
 ---
@@ -43,12 +43,11 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=okolidominica26-sys.iononyeproject" alt="GitHub Streak"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=okolidominica26-sys.io" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🤝 Connect
-- Portfolio: *Coming Soon 🚀*  
 - LinkedIn: *[https://www.linkedin.com/in/nonye-dominica-okoli-331460270]*  
 - Email: *okolidominica26@gmail.com*   
