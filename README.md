@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Frontend Developer | Web Designer | Tech Enthusiast</b><br/>
-  📍 Nigeria · 💼 Aspiring Frontend Developer · ✉️ <a href="mailto:okolidominica26@gmail.com">Email</a>
+  📍 Nigeria · 💼 Aspiring Frontend Developer · ✉️ <a href="mailto:okolidominica26@gmail.com">Email
+  </a>
 </p>
 
 <p align="center">
@@ -13,11 +14,11 @@
 ---
 
 ## 👩🏽‍💻 About Me
-- 🔭 I’m currently working on *responsive website projects*  
-- 🌱 I’m learning *JavaScript and Bootstrap advanced components*  
-- 🤝 I’m open to collaborating on *frontend projects and open source*  
-- 💬 Ask me about *HTML5, CSS, Bootstrap, and GitHub*  
-- ⚡ Fun fact: I enjoy building *simple ideas into creative designs* 🎨  
+- 🔭 I’m currently working on **responsive website projects**  
+- 🌱 I’m learning **JavaScript and Bootstrap advanced components** 
+- 🤝 I’m open to collaborating on **frontend projects and open source** 
+- 💬 Ask me about **HTML5, CSS, Bootstrap, and GitHub**  
+- ⚡ Fun fact: I enjoy building **simple ideas into creative designs** 🎨  
 
 ---
 
@@ -43,11 +44,13 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=okolidominica26-sys" alt="GitHub Streak"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=okolidominica26-sys.iononye" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ## 🤝 Connect
-- LinkedIn: *[https://www.linkedin.com/in/nonye-dominica-okoli-331460270]*  
-- Email: *okolidominica26@gmail.com*   
+- LinkedIn: **[https://www.linkedin.com/in/nonye-dominica-okoli-331460270]**  
+- Email: **[okolidominica26@gmail.com]**
+- facebook: **[Nonye Dominica Okoli]**
+     
