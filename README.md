@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/okolidominica26-sys.io?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/okolidominica26-sys.io?style=flat&label=Followers"></a>
-  <a href="https://github.com/okolidominica26-sys.io"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=okolidominica26-sys.io&style=flat"></a>
+  <a href="https://github.com/okolidominica26-sys?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/okolidominica26-sys?style=flat&label=Followers"></a>
+  <a href="https://github.com/okolidominica26-sys"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=okolidominica26-sys&style=flat"></a>
 </p>
 
 ---
@@ -38,12 +38,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=okolidominica26-sys.iononyeproject&show_icons=true&hide_title=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okolidominica26-sys.iononyeproject&layout=compact" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=okolidominica26-sys&show_icons=true&hide_title=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okolidominica26-sys&layout=compact" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=okolidominica26-sys.io" alt="GitHub Streak"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=okolidominica26-sys" alt="GitHub Streak"/>
 </p>
 
 ---
